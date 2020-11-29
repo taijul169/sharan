@@ -1,0 +1,550 @@
+@media only screen and (min-width : 320px) and (max-width : 480px) {/*--- Mobile portrait ---*/}
+@media only screen and (min-width : 480px) and (max-width : 595px) {/*--- Mobile landscape ---*/}
+@media only screen and (min-width : 595px) and (max-width : 690px) {/*--- Small tablet portrait ---*/}
+@media only screen and (min-width : 690px) and (max-width : 800px) {/*--- Tablet portrait ---*/}
+@media only screen and (min-width : 800px) and (max-width : 1024px) {/*--- Small tablet landscape ---*/}
+@media only screen and (min-width : 1024px) and (max-width : 1224px) {/*--- Tablet landscape --- */}
+
+
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media (max-width:767px) {
+.service-icon-booking li {
+	width: 48%;
+   }
+  .nav-header {
+    width: 100%;
+    background: #fff;
+    left: 0%;
+    height: 0px;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+    padding-top: 0px;
+  }
+  .single-room-top h4 {
+	font-size: 16px;
+	bottom: 34px;
+}
+.single-room-top img {
+	height: 181px;
+	left: -30px;
+	top: 50px;
+}
+  .section-title h1 {
+    font-size: 36px;
+  }
+.booking-box {
+	padding: 25px 50px;
+}
+  .about-section.ptb-100 {
+    padding-top: 150px;
+  }
+  .nivo-caption {
+    bottom: 0;
+  }
+  .nivo-caption h1 {
+    font-size: 24px;
+  }
+  .input-box select {
+    margin-bottom: 0;
+  }
+  .displayNav {
+    height: 380px;
+  }
+  .nav-header ul li {
+    display: block;
+  }
+  .search-box-header {
+    display: none;
+  }
+  .barnd-logo a {
+    display: block;
+  }
+  .barnd-logo {
+    padding-bottom: 15px;
+  }
+  .shape-wrapper {
+    display: none;
+  }
+  .inner-content h2 {
+    font-size: 35px;
+  }
+  .inner-content-wrap-left {
+    margin-top: 0%;
+  }
+  .inner-content {
+    text-align: center;
+  }
+  .inner-content p {
+    font-size: 14px;
+  }
+  .hero-btn {
+    display: flex;
+    justify-content: center;
+  }
+  .default-btn-one {
+    padding: 10px 15px;
+    font-size: 12px;
+    height: 38px;
+  }
+  .video-play-btn {
+    padding: 5px 30px;
+  }
+  .section-title h3 {
+    font-size: 28px;
+  }
+  .title-with-content {
+    margin-bottom: 30px;
+  }
+  .default-btn-two {
+    padding: 5px 30px;
+  }
+  .sigle-feature-box h4 {
+    color: #3b3663;
+    font-size: 15px;
+  }
+  .sigle-feature-box.service-box p {
+    font-size: 13px;
+  }
+  .boosting-item-tab.mb-3 ul li {
+    width: 45%;
+  }
+  .single-team-wrapper {
+    margin-bottom: 20px;
+  }
+  .single-project span {
+    font-size: 16px;
+  }
+  .blog-text-content h4 {
+    font-size: 14px;
+  }
+  .blog-date span {
+    font-size: 8px;
+  }
+  .cta-left {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .cta-left h4 {
+    font-size: 16px;
+  }
+  .cta-left span {
+    font-size: 12px;
+  }
+  .cta-right form input[type="text"] {
+    padding: 10px;
+  }
+  .cta-right form input[type="submit"] {
+    padding: 10px;
+  }
+  .single-widget-footer.links ul li a {
+    padding-bottom: 10px;
+    font-size: 13px;
+  }
+  .phn-info {
+    font-size: 12px;
+  }
+  .phn-info p {
+    font-size: 12px;
+  }
+  .widget-inner i {
+    font-size: 14px;
+  }
+  .widget-inner {
+    margin-bottom: 10px;
+  }
+  .footer-widget-section h4 {
+    font-size: 14px;
+  }
+  .footer-bottom {
+    text-align: center;
+  }
+  .contact-analysis input[type="text"] {
+    padding-bottom: 15px;
+    font-size: 12px;
+  }
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .single-blog-wrapper {
+    margin-bottom: 20px;
+  }
+  .slide-text {
+    padding: 60px 15px;
+  }
+  .slide-text h5 {
+    font-size: 14px;
+  }
+  .slide-text span {
+    font-size: 10px;
+    margin-top: -6px;
+  }
+  .slide-text i {
+    font-size: 14px;
+  }
+  .slide-text p {
+    font-size: 12px;
+  }
+  .single-slide-wrapper {
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  .blog-text-content .default-btn-two {
+    font-size: 10px;
+  }
+  .boosting-item-tab ul li a h6 {
+    font-size: 12px;
+  }
+  .py-4 {
+    padding: 1rem 0rem !important;
+  }
+
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media (max-width:500px) {
+	.hero-inner-text {
+	height: 60vh;
+}
+  .nivo-caption h1 {
+    font-size: 14px;
+  }
+  .section-title h1 {
+    font-size: 36px;
+  }
+  .commonBtn {
+	font-size: 10px;
+	padding: 5px 10px;
+}
+.nav-header {
+	padding-top: 0px;
+	z-index: 99;
+}
+.nivo-caption {
+	width: 73%;
+}
+.client-left {
+	float: none;
+	width: 100px;
+	margin-left: 0px;
+	margin-bottom: 20px;
+	margin-left: 15px;
+}
+.client-right {
+	padding-left: 0px;
+}
+.team-top-content {
+	height: 350px;
+	margin: 35px;
+}
+.team-top-content img{
+	height: 80%;
+}
+.about-hero-text-wrapper h2 {
+	color: #FFF;
+	font-size: 32px;
+}
+.room-info-left h4 {
+	font-size: 14px;
+}
+.room-info-bottom.side h4 {
+	font-size: 14px;
+}
+.room-info-left.side h5 {
+	font-size: 12px;
+}
+.room-info-bottom {
+	height: 28%;
+}
+.room-info-left h5 {
+	font-size: 12px;
+}
+.room-info-bottom .commonBtn {
+	font-size: 6px;
+	padding: 2px 4px;
+}
+.room-info-bottom.side a.commonBtn {
+	font-size: 6px;
+	padding: 2px 4px;
+	border: 2px solid;
+}
+.single-nav-item span {	
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 18px;
+}
+.single-nav-item h4 {
+	font-size: 10px;
+}
+.booking-wrapper {
+	padding: 20px 0px;
+}
+.success-btn-booking {
+	font-size: 10px;
+	margin-bottom: 10px;
+}
+.booking-tab-content-wrapper {
+	padding: 0px 0px;
+}
+.success-btn-booking i {
+	font-size: 12px;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+
+}
+.booking-card ul li {
+	width: 18%;	
+}
+.specialization-content-left-bottom {
+	margin-top: 0px;
+}
+.blog-text-content h4 a {
+	font-size: 16px;
+}
+}
+/* Extra small devices (phones, 600px and down) */
+@media  (max-width: 360px) {
+	.single-team-item {
+	margin-bottom:40px;
+}
+.service-icon-booking li {
+	width: 100%;
+   }
+.team-top-content {
+	height: 250px;
+	margin: 35px;
+}
+.pt-100 {
+	padding-top: 50px;
+}
+.team-social-link ul li a {
+	width: 24px;
+	height: 24px;
+	font-size: 10px;
+	line-height: 24px;
+	margin: 2px;
+}
+.barnd-logo img {
+	width: 90px;
+}
+.dis-none{
+	display: none;
+}
+}
+@media (min-width: 768px) and (max-width: 991px)  {
+  /* hero-slider-content */
+  .nivo-caption {
+    left: 100px;
+    bottom: 15px;
+  }
+  .nav-header ul li a {
+    padding: 10px 4px;
+    font-size: 11px;
+  }
+  .three-bars span::before {
+    width: 25px;
+  }
+  .three-bars span {
+    width: 25px;
+  }
+  .three-bars span:nth-child(3)::before {
+    width: 14px;
+    right: 0px;
+  }
+  .input-box input {
+    width: 48%;
+  }
+  .input-box label {
+    font-size: 12px;
+  }
+  .input-box input {
+    padding: 6px;
+    width: 48%;
+    font-size: 12px;
+  }
+  .booking-box {
+    padding: 10px 10px;
+    bottom: 65px;
+  }
+  .about-widget-text h5 {
+    font-weight: 500;
+    font-size: 14px;
+  }
+  .about-widget-text p {
+    font-size: 10px;
+  }
+  .about-widget-icon i::before {
+    font-size: 28px;
+  }
+  .about-widget-text {
+    padding-left: 40px;
+  }
+  .about-right-slider-wrapper {
+    height: 50%;
+    top: 10%;
+  }
+  .single-slide-wrapper-about {
+    margin-top: 20%;
+  }
+  .icon-box-specialization-single h4 {
+    font-size: 16px;
+  }
+  .specialization-section {
+    background: url(assets/img/bg/1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+  }
+  .specialization-content-left-bottom {
+    margin-top: 0px;
+  }
+  .section-title h1 {
+    font-size: 75px;
+  }
+  .about-widget-text h5 {
+    font-size: 12px;
+  }
+  .input-box select {
+    padding: 6px 15px;
+    font-size: 12px;
+  }
+  .search-icon {
+    width: 50%;
+  }
+  .team-top-content {
+    height: 240px;
+  }
+  .team-img {
+    bottom: 18%;
+  }
+  .team-social-link ul li a {
+    width: 25px;
+    height: 25px;
+    font-size: 10px;
+    line-height: 25px;
+    margin: 2px;
+  }
+  .single-team-item:hover .team-img {
+    bottom: 15%;
+  }
+  .single-team-item:hover .team-social-link {
+    bottom: 5px;
+    z-index: 1;
+  }
+  .inner-content h2 {
+    font-size: 45px;
+  }
+  .default-btn-one {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #ffffff;
+    font-size: 10px;
+    height: 40px;
+    width: 150px;
+  }
+  .video-play-btn {
+    font-size: 15px;
+    margin-left: 0px;
+  }
+  .boosting-item-tab.mb-3 ul li {
+    width: 14.8%;
+  }
+  .boosting-item-tab ul li a h6 {
+    font-size: 12px;
+  }
+  .team-content.text-center h6 {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  .shape-text h2 {
+    font-size: 86px;
+  }
+  .target {
+    display: none;
+  }
+  .team-content.text-center ul li a {
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    font-size: 8px;
+  }
+  .team-content span {
+    font-size: 13px;
+  }
+  .section-title h3 {
+    font-size: 24px;
+  }
+  .real-time-content-wrapper.text-left a {
+    font-size: 12px;
+  }
+  .why-chooseus-left a {
+    font-size: 12px;
+  }
+  .ptb-100 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .blog-text-content h4 {
+    font-size: 12px;
+  }
+  .blog-text-content ul li a {
+    margin-right: 2px;
+    font-size: 8px;
+  }
+  .blog-text-content ul li {
+    font-size: 8px;
+  }
+  .blog-date span {
+    font-size: 6px;
+  }
+  .blog-text-content .default-btn-two {
+    font-size: 8px;
+  }
+  .blog-text-content p {
+    font-size: 9px;
+  }
+  .cta-right form input[type="submit"] {
+    padding: 10px;
+    font-size: 10px;
+  }
+  .cta-right form input[type="text"] {
+    padding: 10px;
+    font-size: 10px;
+  }
+  .footer-widget-section h4 {
+    font-size: 11px;
+  }
+  .single-widget-footer.links ul li a {
+    padding-bottom: 14px;
+    font-size: 12px;
+  }
+  .single-widget-footer p {
+    font-size: 12px;
+  }
+  .phn-info {
+    font-size: 14px;
+  }
+  .widget-inner i {
+    font-size: 14px;
+  }
+  .widget-inner {
+    margin-bottom: 15px;
+  }
+  .footer-bottom ul li {
+    font-size: 12px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}
